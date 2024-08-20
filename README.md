@@ -1,4 +1,6 @@
-## Hi there 👋
+## Oi, este espaço ainda esta em construção
+
+Estou aprendendo e alimentando meu GitHub
 
 <!--
 **DioclecianoGO/DioclecianoGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
