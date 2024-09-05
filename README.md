@@ -12,9 +12,9 @@ I am developing technical knowledge, following the Front-end study path, but soo
 <!-- & Tools 🛠 --> 
 
 <div align="center">
-  <table width="100%">
+  <table>
     <tr>
-      <td valign="top" width="50%">
+      <td valign="top">
         <h3>Frontend</h3>
         <div align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -26,7 +26,7 @@ I am developing technical knowledge, following the Front-end study path, but soo
           <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> -->
         </div>
       </td>
-      <td valign="top" width="50%">
+      <td valign="top">
         <h3>Backend</h3>
         <div align="center">
          <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> -->
