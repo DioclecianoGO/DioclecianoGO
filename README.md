@@ -1,3 +1,5 @@
+# Welcome to my repository
+
 Movido por uma paixão profunda nas tecnologias inovadoras, após anos de experiência em consultoria e gestão da qualidade, desenvolvi uma convicção firme: **soluções tecnológicas não são apenas ferramentas, mas recursos estratégicos fundamentais para tomada de decisões, impulsionando o progresso e a eficiência nas organizações.**
 
 Essa crença foi o motor da minha transição de carreira para o desenvolvimento de software, onde vejo a oportunidade de criar soluções tecnológicas que inspiram e realmente fazem a diferença. 
