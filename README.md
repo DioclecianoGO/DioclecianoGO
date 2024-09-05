@@ -1,8 +1,9 @@
-# Welcome to my repository
+# WELCOME TO MY REPOSITORY
 
-Movido por uma paixão profunda nas tecnologias inovadoras, após anos de experiência em consultoria e gestão da qualidade, desenvolvi uma convicção firme: **soluções tecnológicas não são apenas ferramentas, mas recursos estratégicos fundamentais para tomada de decisões, impulsionando o progresso e a eficiência nas organizações.**
+## About
+Driven by a deep passion for innovative technologies, after years of experience in consulting and quality management, I have developed a firm conviction: **technological solutions are not just tools, but fundamental strategic resources for decision-making, driving progress and efficiency in organizations.**
 
-Essa crença foi o motor da minha transição de carreira para o desenvolvimento de software, onde vejo a oportunidade de criar soluções tecnológicas que inspiram e realmente fazem a diferença. 
+This belief was the driving force behind my career transition to software development, where I see the opportunity to create technological solutions that inspire and truly make a difference.
 
 
 
