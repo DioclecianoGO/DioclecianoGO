@@ -12,10 +12,10 @@ I am developing technical knowledge, following the Front-end study path, but soo
 <!-- & Tools 🛠 --> 
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td valign="top" width="50%">
-        <h3>Frontend (Web)</h3>
+        <h3>Frontend</h3>
         <div align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -27,7 +27,7 @@ I am developing technical knowledge, following the Front-end study path, but soo
         </div>
       </td>
       <td valign="top" width="50%">
-        <h3>Backend & Databases</h3>
+        <h3>Backend</h3>
         <div align="center">
          <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> -->
          <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> -->
