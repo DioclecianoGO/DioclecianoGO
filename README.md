@@ -11,12 +11,7 @@ I am developing technical knowledge, following the Front-end study path, but soo
 ## Languages 
 <!-- & Tools 🛠 --> 
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <h3>Frontend</h3>
-        <div align="center">
+<div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -24,11 +19,6 @@ I am developing technical knowledge, following the Front-end study path, but soo
          <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> -->
           <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> -->
           <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> -->
-        </div>
-      </td>
-      <td valign="top">
-        <h3>Backend</h3>
-        <div align="center">
          <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> -->
          <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> -->
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -39,8 +29,4 @@ I am developing technical knowledge, following the Front-end study path, but soo
          <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> -->
          <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> -->
          <!-- <img src="https://neon.tech/favicon/apple-touch-icon.png" alt="Neon.tech" width="60" height="60"/> -->
-        </div>
-      </td>
-    </tr>
-  </table>
 </div>
