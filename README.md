@@ -5,6 +5,8 @@ Driven by a deep passion for innovative technologies, after years of experience 
 
 This belief was the driving force behind my career transition to software development, where I see the opportunity to create technological solutions that inspire and truly make a difference.
 
+## Current Work
+I am developing technical knowledge, following the Front-end knowledge path, but soon I will be putting some projects and ideas into practice here.
 
 
 
