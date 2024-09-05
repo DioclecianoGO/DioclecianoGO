@@ -1,4 +1,4 @@
-# WELCOME TO MY REPOSITORY
+# WELCOME
 
 ## About
 Driven by a deep passion for innovative technologies, after years of experience in consulting and quality management, I have developed a firm conviction: **technological solutions are not just tools, but fundamental strategic resources for decision-making, driving progress and efficiency in organizations.**
