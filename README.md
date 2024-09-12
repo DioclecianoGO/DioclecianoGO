@@ -8,8 +8,6 @@ This belief was the driving force behind my career transition to software develo
 ## Current Learning
 I am developing technical knowledge, following the Front-end study path, but soon I will be putting some projects and ideas into practice here.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66e091c7ee0aa6b85179f1fe?variant=dark)](https://roadmap.sh)
-
 ## Languages 
 <!-- & Tools 🛠 --> 
 
